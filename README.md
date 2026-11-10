@@ -1,21 +1,24 @@
-````markdown
-<!-- ===================================================== -->
-<!--                 SYSTEM INITIALIZATION                -->
-<!-- ===================================================== -->
+&#x20;\<!-- ===================================================== -->
 
-<div align="center">
+\<!--                  SYSTEM INITIALIZATION               -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0B1B3A,70:123C69,100:00D9FF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPER%20IN%20PROGRESS&descSize=15&descAlignY=58&descColor=FFFFFF"/>
+\<!-- ===================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Initializing+developer+profile...;Java+Backend+Developer+in+progress;Building+REST+APIs+with+Spring+Boot;Turning+ideas+into+software+solutions;System+ready+%3E_" />
+\<div align="center">
 
-<br/>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0B1B3A,70:123C69,100:00D9FF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=JAVA%20BACKEND%20DEVELOPMENT&descSize=15&descAlignY=58&descColor=FFFFFF](https://capsule-render.vercel.app/api?type=waving\&color=0:050816,30:0B1B3A,70:123C69,100:00D9FF\&height=220\&section=header\&text=SYSTEM%20ONLINE\&fontSize=48\&fontColor=00D9FF\&animation=fadeIn\&fontAlignY=38\&desc=JAVA%20BACKEND%20DEVELOPMENT\&descSize=15\&descAlignY=58\&descColor=FFFFFF)"/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/FOCUS-JAVA_BACKEND-123C69?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-7B2CBF?style=for-the-badge&labelColor=050816"/>
+# ISAQUE AUGUSTO HERCULANO MACHADO
 
-</div>
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+Backend+Developer+in+Progress;Spring+Boot+%7C+REST+APIs+%7C+SQL;Aprendizado+cont%C3%ADnuo+e+projetos+pr%C3%A1ticos](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=19\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=700\&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+Backend+Developer+in+Progress;Spring+Boot+%7C+REST+APIs+%7C+SQL;Aprendizado+cont%C3%ADnuo+e+projetos+pr%C3%A1ticos)" />
+
+\<br/>
+
+\<img src="[https://img.shields.io/badge/STATUS-LEARNING-00D9FF?style=for-the-badge&labelColor=050816](https://img.shields.io/badge/STATUS-LEARNING-00D9FF?style=for-the-badge\&labelColor=050816)"/>
+\<img src="[https://img.shields.io/badge/FOCUS-JAVA_BACKEND-123C69?style=for-the-badge&labelColor=050816](https://img.shields.io/badge/FOCUS-JAVA_BACKEND-123C69?style=for-the-badge\&labelColor=050816)"/>
+\<img src="[https://img.shields.io/badge/EDUCATION-ADS-7B2CBF?style=for-the-badge&labelColor=050816](https://img.shields.io/badge/EDUCATION-ADS-7B2CBF?style=for-the-badge\&labelColor=050816)"/>
+
+\</div>
 
 ---
 
@@ -23,20 +26,24 @@
 
 ```bash
 > Loading developer profile...
-> Identity: Tiago
-> Education: Systems Analysis and Development
-> Main Focus: Software Development
-> Career Objective: Java Backend Developer
-> Status: Constantly evolving...
-````
+> Name: Isaque Augusto Herculano Machado
+> Education: Engenharia de Software
+> Main Language: Java
+> Focus: Backend Development
+> Framework: Spring Boot
+> Database: MySQL | PostgreSQL
+> Status: Constantly learning...
+```
 
-Olá! Sou estudante de **Engenharia de Softaware**, com foco em desenvolvimento de software e construção de soluções Backend.
+Olá! Sou estudante de **Engenharia de Software**, interessado em desenvolvimento de software e construção de soluções tecnológicas.
 
-Atualmente, concentro meus estudos no ecossistema Java, especialmente em **Spring Boot, APIs REST, orientação a objetos e integração com bancos de dados**.
+Atualmente, direciono meus estudos para o desenvolvimento **Backend com Java**, aprofundando conhecimentos em Spring Boot, APIs REST, Programação Orientada a Objetos, JDBC e integração com bancos de dados.
 
-Acredito que a evolução na programação acontece por meio da prática, da construção de projetos e do aprendizado contínuo.
+Também estudo conceitos de testes automatizados, organização de projetos e boas práticas de desenvolvimento.
 
-Meu objetivo é desenvolver aplicações bem estruturadas, eficientes e escaláveis.
+Acredito que a evolução profissional acontece por meio do aprendizado contínuo, da resolução de problemas e da construção de projetos práticos.
+
+Meu objetivo é evoluir como desenvolvedor de software e contribuir para a criação de aplicações eficientes, organizadas e bem estruturadas.
 
 ---
 
@@ -44,9 +51,17 @@ Meu objetivo é desenvolver aplicações bem estruturadas, eficientes e escaláv
 
 \<div align="center">
 
-### Main Technologies
+### Programming Languages
 
-\<img src="[https://skillicons.dev/icons?i=java,spring,mysql,postgres,python&theme=dark](https://skillicons.dev/icons?i=java,spring,mysql,postgres,python\&theme=dark)" />
+\<img src="[https://skillicons.dev/icons?i=java,python&theme=dark](https://skillicons.dev/icons?i=java,python\&theme=dark)" />
+
+### Backend Development
+
+\<img src="[https://skillicons.dev/icons?i=spring&theme=dark](https://skillicons.dev/icons?i=spring\&theme=dark)" />
+
+### Databases
+
+\<img src="[https://skillicons.dev/icons?i=mysql,postgres&theme=dark](https://skillicons.dev/icons?i=mysql,postgres\&theme=dark)" />
 
 ### Development Tools
 
@@ -56,16 +71,17 @@ Meu objetivo é desenvolver aplicações bem estruturadas, eficientes e escaláv
 
 ### Knowledge Base
 
-| Category        | Technologies                              |
-| --------------- | ----------------------------------------- |
-| Programming     | Java, Python                              |
-| Backend         | Spring Boot, REST APIs                    |
-| Database        | MySQL, PostgreSQL                         |
-| Java            | OOP, Collections, Streams, Generics, JDBC |
-| Testing         | JUnit 5, Mockito                          |
-| Build           | Maven                                     |
-| Version Control | Git, GitHub                               |
-| Environment     | Docker, IntelliJ IDEA                     |
+| Category        | Technologies and Concepts                           |
+| --------------- | --------------------------------------------------- |
+| Programming     | Java, Python                                        |
+| Backend         | Spring Boot, REST APIs                              |
+| Java            | OOP, Collections, Generics, Streams, JDBC           |
+| Database        | MySQL, PostgreSQL, SQL                              |
+| Testing         | JUnit 5, Mockito                                    |
+| Build           | Maven                                               |
+| Version Control | Git, GitHub                                         |
+| Environment     | IntelliJ IDEA, Docker                               |
+| Concepts        | Logical Programming, Data Analysis, Problem Solving |
 
 ---
 
@@ -80,6 +96,7 @@ Meu objetivo é desenvolver aplicações bem estruturadas, eficientes e escaláv
 \<img src="[https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)"/>
 \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
 \<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)"/>
 
 \</div>
 
@@ -87,11 +104,9 @@ Meu objetivo é desenvolver aplicações bem estruturadas, eficientes e escaláv
 
 ## `04. FEATURED_PROJECTS`
 
-\<div align="center">
+Projetos desenvolvidos durante minha jornada de aprendizado e prática em programação.
 
-\<a href="[https://github.com/isaqueaugustoengsoft-dotcom/SpringBootEssentials2SQL](https://github.com/isaqueaugustoengsoft-dotcom/SpringBootEssentials2SQL)">
-\<img src="[https://github-readme-stats.vercel.app/api/pin/?username=isaqueaugustoengsoft-dotcom&repo=SpringBootEssentials2SQL&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=isaqueaugustoengsoft-dotcom\&repo=SpringBootEssentials2SQL\&theme=tokyonight\&hide_border=true)"/>
-\</a>
+\<div align="center">
 
 \<a href="[https://github.com/isaqueaugustoengsoft-dotcom/Estoque-Java](https://github.com/isaqueaugustoengsoft-dotcom/Estoque-Java)">
 \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=isaqueaugustoengsoft-dotcom&repo=Estoque-Java&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=isaqueaugustoengsoft-dotcom\&repo=Estoque-Java\&theme=tokyonight\&hide_border=true)"/>
@@ -112,25 +127,25 @@ Meu objetivo é desenvolver aplicações bem estruturadas, eficientes e escaláv
 ## `05. CURRENT_OBJECTIVES`
 
 \<div align="center">
-
 \<img width="90%" src="[https://img.shields.io/badge/TERMINAL-EXECUTING...-00D9FF?style=for-the-badge&labelColor=050816](https://img.shields.io/badge/TERMINAL-EXECUTING...-00D9FF?style=for-the-badge\&labelColor=050816)"/>
-
 \</div>
 
 ```bash
-┌──[TIAGO@DEVELOPER]──[~/objectives]
+┌──[ISAQUE@DEVELOPER]──[~/objectives]
 │
 ├── [IN PROGRESS] Java Advanced Concepts
 ├── [IN PROGRESS] Spring Boot Essentials
 ├── [IN PROGRESS] REST API Development
 ├── [IN PROGRESS] Database Integration
-├── [IN PROGRESS] Software Architecture
+├── [IN PROGRESS] Automated Testing
+├── [IN PROGRESS] Software Development Practices
 │
-├── [GOAL] Build professional Backend projects
-├── [GOAL] Improve testing and code quality
-├── [GOAL] Become a Java Backend Developer
+├── [GOAL] Build robust Backend applications
+├── [GOAL] Improve code quality and testing
+├── [GOAL] Develop professional Java projects
+├── [GOAL] Grow as a Software Developer
 │
-└── SYSTEM STATUS: LEARNING...
+└── SYSTEM STATUS: CONSTANTLY LEARNING...
 ```
 
 ---
@@ -165,17 +180,7 @@ Meu objetivo é desenvolver aplicações bem estruturadas, eficientes e escaláv
 
 ---
 
-## `08. CONTRIBUTION_MATRIX`
-
-\<div align="center">
-
-\<img src="[https://raw.githubusercontent.com/isaqueaugustoengsoft-dotcom/isaqueaugustoengsoft-dotcom/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/isaqueaugustoengsoft-dotcom/isaqueaugustoengsoft-dotcom/output/github-contribution-grid-snake-dark.svg)" width="100%"/>
-
-\</div>
-
----
-
-## `09. CONNECT_WITH_ME`
+## `08. CONNECT_WITH_ME`
 
 \<div align="center">
 
@@ -189,15 +194,14 @@ Meu objetivo é desenvolver aplicações bem estruturadas, eficientes e escaláv
 
 \<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123C69,100:050816&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00D9FF,50:123C69,100:050816\&height=120\&section=footer)"/>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123C69,100:050816&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00D9FF,50:123C69,100:050816\&height=120\&section=footer)"/>
 
-### `SYSTEM MESSAGE:`
+### `SYSTEM MESSAGE`
 
 **"Great software is built one line of code at a time."**
 
-\<sub>Designed & Developed by Tiago | Java Backend Developer in Progress\</sub>
+\<sub>Isaque Augusto Herculano Machado | Java Backend Developer in Progress\</sub>
 
 \<img src="[https://img.shields.io/badge/KEEP-CODING-00D9FF?style=flat-square&labelColor=050816](https://img.shields.io/badge/KEEP-CODING-00D9FF?style=flat-square\&labelColor=050816)"/>
 
 \</div>
-\`\`\`
